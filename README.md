@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+### 🙊欢迎发现了我的宝藏(羞耻的github主页)
+### 🎀我的个人主页 bieb13.com，国内访问速度还不错，欢迎访问
+### 🐣上面记录了菜鸡如何努力分享的历程，如果能给你带来一点点帮助！
+### 🥳那真是太好啦
 <!--
 **bieb13/bieb13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
