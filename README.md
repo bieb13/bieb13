@@ -4,9 +4,9 @@
 ### 🐣上面记录了菜鸡如何努力分享的历程，如果能给你带来一点点帮助！
 ### 🥳那真是太好啦
 
-```md
+
 [![bieb13's GitHub stats](https://github-readme-stats.vercel.app/api?username=bieb13)](https://github.com/bieb13/github-readme-stats)
-```
+
 
 <!--
 **bieb13/bieb13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
