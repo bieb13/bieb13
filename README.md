@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### 🙊欢迎发现了我的宝藏(羞耻的github主页)
 ### 🎀我的个人主页 [bieb13.com](https://bieb13.com/)，国内访问速度还不错，欢迎访问
 ### 🐣上面记录了菜鸡如何努力分享的历程，如果能给你带来一点点帮助！
